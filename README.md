@@ -1,9 +1,11 @@
-<h1 align="center" style = " font-weight: bolder>
+
+<h1 align="center" style = " font-weight: bolder">
 <img width="64" height="64"
     src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons.png"
     alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" />
     Aloha, I'm Tran Ngoc Dai 
 </h1>
+    
 <h3 align="center"> ☘️ A Information Technology student at the 
 <a href="https://www.hcmus.edu.vn"  target="_blank" style="text-decoration: none;
         color: inherit;">Ho Chi Minh University of Science</a> </h3>
@@ -22,6 +24,8 @@
                         alt="tr.ngocdai243" height="35" width="40" />
         </a>
 </div>
+
+
 
 
 <!--
