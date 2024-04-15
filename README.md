@@ -1,14 +1,26 @@
 
-<h1 align="center" style = " font-weight: bolder">
-<img width="64" height="64"
-    src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons.png"
-    alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" />
-    Aloha, I'm Tran Ngoc Dai 
-</h1>
-    
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk1enBrYnZsbmQzNGpneTluaDRtZDJndHhsaXIwN2IyaHZrdnRyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGvNPs1UGPq1Ra8/giphy.gif" width="200"/>
+</div>
+<div margin = "-50px">
+<div align="center" style = " font-weight: bolder">
+<h1>
+<img width="64" height="60"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtnZDBvdXQ0aWwzZG5sNGw2d3l4b216NjZzMTh0dDJxMW9pY292NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26gslMAdctNhu6YnK/giphy.gif"
+alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" />
+        Aloha, I'm Tran Ngoc Dai 
+<img width="64" height="60"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJyeHF3c3Qzd2YxZnUzcnJnMXNvaGs1ZW0yYWNhMjh2MnVuZWh1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H48JdEvCf0138alb6w/giphy.gif"
+alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" />
+<h1>
+</div>
+
+
 <h3 align="center"> ☘️ A Information Technology student at the 
 <a href="https://www.hcmus.edu.vn"  target="_blank" style="text-decoration: none;
         color: inherit;">Ho Chi Minh University of Science</a> </h3>
+
+</div>
 
 
 <h3>Connect with me: </h3>
@@ -25,6 +37,10 @@
         </a>
 </div>
 
+<div id="header" align="center">
+<img width="260" height="260"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdpYzZpM3Y3bnB5ejBoM2p1ZjY5MGd2dzEzY2w3MTF4YzIwYW1qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1BFEhLo5xIeuzzBm7e/giphy.gif"/>
+</div>
 
 
 
