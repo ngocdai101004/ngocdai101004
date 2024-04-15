@@ -12,8 +12,7 @@ alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" 
 <img width="64" height="60"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJyeHF3c3Qzd2YxZnUzcnJnMXNvaGs1ZW0yYWNhMjh2MnVuZWh1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H48JdEvCf0138alb6w/giphy.gif"
 alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" />
-<h1>
-</div>
+</h1>
 
 
 <h3 align="center"> ☘️ A Information Technology student at the 
