@@ -15,7 +15,7 @@ alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" 
 </h1>
 
 
-<h3 align="center"> ☘️ A Information Technology student at the 
+<h3 align="center"> ☘️ An Information Technology student at the 
 <a href="https://www.hcmus.edu.vn"  target="_blank" style="text-decoration: none;
         color: inherit;">Ho Chi Minh University of Science</a> </h3>
 
