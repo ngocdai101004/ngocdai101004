@@ -1,7 +1,10 @@
 
+<!--
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk1enBrYnZsbmQzNGpneTluaDRtZDJndHhsaXIwN2IyaHZrdnRyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGvNPs1UGPq1Ra8/giphy.gif" width="200"/>
 </div>
+-->
+
 <div margin = "-50px">
 <div align="center" style = " font-weight: bolder">
 <h1>
