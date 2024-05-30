@@ -24,15 +24,22 @@ alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" 
 
 <h3>Connect with me: </h3>
 <div  style = "padding-left: 10px;">
-        <a href="mailto:ngocdai101004@gmail.com" target="blank" style="text-decoration: none; color: inherit">  
+        <a href="mailto:ngocdai101004@gmail.com" target="_blank" style="text-decoration: none; color: inherit">  
                 <img align="center"
                         src="https://cdn-icons-png.freepik.com/512/15047/15047426.png"
-                        alt="ngocdai101004@gmail.com" height="35" width="40" />
+                        alt="ngocdai101004@gmail.com" height="40" width="47" />
         </a>
-        <a href="https://www.facebook.com/tr.ngocdai243" target="blank">
+        <a href="https://www.facebook.com/tr.ngocdai243" target="_blank">
                 <img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="tr.ngocdai243" height="35" width="40" />
+                        src="https://img.icons8.com/?size=256&id=118568&format=png"
+                        alt="tr.ngocdai243" height="50" width="50" />
+        </a>
+        <a href="https://www.linkedin.com/in/ngoc-dai-tran-621b62292/" target="_blank">
+                <img align="center"
+                        src="https://img.icons8.com/?size=256&id=60ZV_wYC0BM2&format=png"
+                        alt="tr.ngocdai243" height="37" width="37"
+                        scale = 1.3
+                />
         </a>
 </div>
 
