@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk1enBrYnZsbmQzNGpneTluaDRtZDJndHhsaXIwN2IyaHZrdnRyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGvNPs1UGPq1Ra8/giphy.gif" width="200"/>
 </div>
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Guides&weight=900&size=14&duration=4000&pause=1&color=05B060EB&background=FFFFFF00&center=true&vCenter=true&height=30&lines=%F0%9F%91%8B+Aloha+%F0%9F%91%80;%F0%9F%91%89+I+am+Tran+Ngoc+Dai+%F0%9F%91%88;%F0%9F%8E%93+An+IT+student+at+the+HCMUS+%F0%9F%9A%8B"  alt="Typing Animation" style="width:100%"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Guides&weight=900&size=14&duration=4000&pause=1&color=05B060EB&background=FFFFFF00&center=true&vCenter=true&height=30&lines=%F0%9F%91%8B+Aloha+%F0%9F%91%80;%F0%9F%91%89+I+am+Tran+Ngoc+Dai+%F0%9F%91%88;%F0%9F%8E%93+A+Computer+Science+Student+At+HCMUS+%F0%9F%9A%8B"  alt="Typing Animation" style="width:100%"/></a>
 <div margin = "-50px">
 <div align="center" style = " font-weight: bolder">
 <h1>
@@ -18,7 +18,7 @@ alt="external-Hi-miscellany-texts-and-badges-bearicons-outline-color-bearicons" 
 </h1>
 
 
-<h3 align="center"> ☘️ An Information Technology student at the
+<h3 align="center"> ☘️ An Computer Science student at the
 <a href="https://www.hcmus.edu.vn"  target="_blank" style="text-decoration: none;
         color: inherit;">Ho Chi Minh University of Science</a> </h3>
 
